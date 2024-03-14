@@ -141,7 +141,7 @@
         <div class="flex flex-1 justify-end items-center h-full mt-8 md:mt-0">
           <img
             class="rounded-lg"
-            src="http://127.0.0.1:8000/img/hero.jpg"
+            src="http://127.0.0.1:8000/img/edem.jpg"
             alt="Hero"
           />
         </div>
